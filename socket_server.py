@@ -19,3 +19,5 @@ while flag:
 else:
     print('====')
 
+
+print('---')
